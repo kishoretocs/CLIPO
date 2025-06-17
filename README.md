@@ -117,8 +117,4 @@ Redis connection error	Ensure redis-server is running
 Celery not picking jobs	Make sure Redis & MongoDB are up
 Thumbnail not showing	Check thumbnails/ folder permissions
 
-✅ Local storage
-
-👤 Author
-
 ```
